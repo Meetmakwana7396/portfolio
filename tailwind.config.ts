@@ -12,6 +12,9 @@ const config: Config = {
         Inter: ['"Inter"', "sans-serif"],
         Joseph: ['"Josefin Sans"', "sans-serif"],
       },
+      colors: {
+        primary: "#1DB954",
+      },
       container: {
         center: true,
         padding: "2rem",
