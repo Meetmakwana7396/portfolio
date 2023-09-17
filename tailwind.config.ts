@@ -11,9 +11,10 @@ const config: Config = {
       fontFamily: {
         Inter: ['"Inter"', "sans-serif"],
         Joseph: ['"Josefin Sans"', "sans-serif"],
+        Barlow: ['"Barlow Condensed"', "sans-serif"],
       },
       colors: {
-        primary: "#1DB954",
+        primary: "#94df21",
       },
       container: {
         center: true,
