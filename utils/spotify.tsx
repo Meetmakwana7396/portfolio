@@ -37,9 +37,7 @@ async function getRecentTracks() {
     );
 
     return response.data.items;
-  } catch (error) {
-    console.log(error.response.data);
-  }
+  } catch (error) {}
 }
 
 export { getRecentTracks };
